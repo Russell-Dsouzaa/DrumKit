@@ -1,7 +1,7 @@
 # DrumKit 
 ![DrumKit](./meta.jpg)
 
-<hr><br><br>
+<br><br>
 
 ## How to Play:
     - There are 9 buttons onscreen, which aren't clickable(ironic, ik).
@@ -9,7 +9,7 @@
     - To play these sounds, press on the respective buttons on your keyboard.
     - Go Crazy!
 
-<hr><hr><br><br><br>
+<br><br><br>
 
 Currently, users can play sounds by clicking on the keyboard buttons. In fututre, I have plans on adding a feature wherein, if the user clicks on the button, it plays the sound.
 
