@@ -1,5 +1,5 @@
 # DrumKit 
-[DrumKit](./meta.jpg)
+![DrumKit](./meta.jpg)
 
 <hr><br><br>
 
